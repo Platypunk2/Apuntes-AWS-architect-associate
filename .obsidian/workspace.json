@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "5862e705802b883c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe04d7788ef8410f",
+        "type": "tabs",
+        "dimension": 55.21907216494846,
+        "children": [
+          {
+            "id": "da54b7e4862e6ab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Solution Architecture - Associate/AWS Storage Gateway.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Storage Gateway"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1813c651002d7710",
+        "type": "tabs",
+        "dimension": 44.78092783505155,
+        "children": [
+          {
+            "id": "fd08ad321066b760",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "AWS Solution Architecture - Associate/AWS Storage Gateway.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.0989583333333333,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224486,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de AWS Storage Gateway"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5b046004fb8cbf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b5a1404d5923751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f5976404ee0117d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "733563c03f25baae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "5da248175710e4d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "3a2d34350f270f12",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b77283756647c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d166abb6262b942f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS Solution Architecture - Associate/IAM/Políticas (Más a Detalle).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Políticas (Más a Detalle)"
+            }
+          },
+          {
+            "id": "695b3cefed29f48d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS Solution Architecture - Associate/IAM/Políticas (Más a Detalle).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Políticas (Más a Detalle)"
+            }
+          },
+          {
+            "id": "e8665f4d486b38fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac648659d437d04d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS Solution Architecture - Associate/IAM/Políticas (Más a Detalle).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Políticas (Más a Detalle)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "4f5976404ee0117d",
+  "lastOpenFiles": [
+    "AWS Solution Architecture - Associate/AWS Direct Connect.md",
+    "AWS Solution Architecture - Associate/EXAMEN - AWS Solution Architecture.md",
+    "AWS Solution Architecture - Associate/Amazon Elasic/Amazon ElastiCache.md",
+    "AWS Solution Architecture - Associate/Amazon CloudFront.md",
+    "AWS Solution Architecture - Associate/Amazon Firewall Manager.md",
+    "AWS Solution Architecture - Associate/Amazon DynamoDB.md",
+    "AWS Solution Architecture - Associate/Amazon Aurora.md",
+    "AWS Solution Architecture - Associate/EBS/Amazon EBS - Elastic Block Store.md",
+    "AWS Solution Architecture - Associate/EBS/Cifrado en EBS.md",
+    "AWS Solution Architecture - Associate/Amazon Shield.md",
+    "AWS Solution Architecture - Associate/Amazon Route 53.md",
+    "AWS Solution Architecture - Associate/Amazon RDS (Relational Database Service).md",
+    "Conceptos Importantes/CNAME.md",
+    "AWS Solution Architecture - Associate/IAM/Amazon IAM - Identify and Access Management.md",
+    "AWS Certifications.md",
+    "AWS Solution Architecture - Associate/IMG/Pasted image 20260313103920.png",
+    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312184537.png",
+    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312182201.png",
+    "AWS Solution Architecture - Associate/Amazon VPC.md",
+    "AWS Solution Architecture - Associate/AWS CloudFormation.md",
+    "AWS Solution Architecture - Associate/AWS Auto Scaling.md",
+    "AWS Solution Architecture - Associate/Gestión y Gobernanza/Amazon CloudWatch.md",
+    "AWS Solution Architecture - Associate/Gestión y Gobernanza/Amazon CloudTrail.md",
+    "AWS Solution Architecture - Associate/Gestión y Gobernanza/AWS Config.md",
+    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312181046.png",
+    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312180300.png",
+    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312173327.png",
+    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312173157.png",
+    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312170015.png",
+    "AWS Solution Architecture - Associate/Amazon Elasic/Elastic Load Balancing.md",
+    "AWS Solution Architecture - Associate/Gestión y Gobernanza",
+    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312165652.png",
+    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312153538.png",
+    "AWS Solution Architecture - Associate/Direccionamiento IPv4 e IPv6 en AWS.md",
+    "AWS Solution Architecture - Associate/AWS WAF - Web Application Firewall.md",
+    "AWS Solution Architecture - Associate/Grupos de seguridad y NACL de AWS.md",
+    "Conceptos Importantes/Ataques DDoS.md",
+    "AWS Solution Architecture - Associate/EBS",
+    "AWS Solution Architecture - Associate/EC2",
+    "AWS Solution Architecture - Associate/Amazon Elasic",
+    "Untitled.base",
+    "AWS Solution Architecture - Associate/IAM",
+    "Conceptos Importantes/IMG",
+    "AWS Solution Architecture - Associate/IMG",
+    "Conceptos Importantes",
+    "AWS Solution Architecture - Associate"
+  ]
+}

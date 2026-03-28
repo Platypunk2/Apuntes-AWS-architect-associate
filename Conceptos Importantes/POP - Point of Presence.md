@@ -1,0 +1,1 @@
+Es básicamente un servidor o grupo de servidores distribuidos geográficamente que están más cerca de los usuarios finales.
