@@ -1,0 +1,1 @@
+Las aplicaciones heredadas (legacy applications) son sistemas, software o hardware obsoletos que una organización sigue utilizando porque son cruciales para sus operaciones, a pesar de usar tecnologías antiguas, ser difíciles de mantener, ineficientes o carecer de soporte técnico. Aunque siguen funcionando, a menudo limitan la innovación y generan altos costos de mantenimiento.

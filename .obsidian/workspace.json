@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Solution Architecture - Associate/AWS Storage Gateway.md",
+                "file": "Anotaciones, Confusiones y Aclaraciones/Configuración Multi-AZ vs Aurora Global Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Storage Gateway"
+              "title": "Configuración Multi-AZ vs Aurora Global Database"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AWS Solution Architecture - Associate/AWS Storage Gateway.md",
+                "file": "Anotaciones, Confusiones y Aclaraciones/Configuración Multi-AZ vs Aurora Global Database.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de AWS Storage Gateway"
+              "title": "Gráfico de Configuración Multi-AZ vs Aurora Global Database"
             }
           }
         ]
@@ -215,45 +215,46 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4f5976404ee0117d",
+  "active": "da54b7e4862e6ab4",
   "lastOpenFiles": [
-    "AWS Solution Architecture - Associate/AWS Direct Connect.md",
-    "AWS Solution Architecture - Associate/EXAMEN - AWS Solution Architecture.md",
-    "AWS Solution Architecture - Associate/Amazon Elasic/Amazon ElastiCache.md",
+    "Anotaciones, Confusiones y Aclaraciones/Amazon RDS Custom for Oracle.md",
+    "Anotaciones, Confusiones y Aclaraciones/Configuración Multi-AZ vs Aurora Global Database.md",
+    "Conceptos Importantes/Aplicaciones Heredadas.md",
+    "Anotaciones, Confusiones y Aclaraciones/Amazon SNS y SQS.md",
+    "AWS Solution Architecture - Associate/Amazon Textract.md",
+    "AWS Solution Architecture - Associate/Amazon Simple Storage Service (S3).md",
+    "AWS Solution Architecture - Associate/Amazon VPC.md",
+    "AWS Solution Architecture - Associate/Amazon Route 53.md",
+    "AWS Solution Architecture - Associate/Amazon RDS (Relational Database Service).md",
     "AWS Solution Architecture - Associate/Amazon CloudFront.md",
+    "AWS Solution Architecture - Associate/EXAMEN - AWS Solution Architecture.md",
+    "AWS Solution Architecture - Associate/Grupos de seguridad y NACL de AWS.md",
+    "AWS Solution Architecture - Associate/IMG/Pasted image 20260331173729.png",
+    "Conceptos Importantes/Anycast.md",
+    "Anotaciones, Confusiones y Aclaraciones",
+    "AWS Solution Architecture - Associate/Gestión y Gobernanza/Amazon CloudTrail.md",
+    "Conceptos Importantes/NAT - Network Address Translation.md",
+    "AWS Solution Architecture - Associate/Amazon Elasic/Amazon ElastiCache.md",
+    "Conceptos Importantes/CNAME.md",
+    "AWS Solution Architecture - Associate/AWS Storage Gateway.md",
+    "AWS Solution Architecture - Associate/AWS Direct Connect.md",
     "AWS Solution Architecture - Associate/Amazon Firewall Manager.md",
     "AWS Solution Architecture - Associate/Amazon DynamoDB.md",
     "AWS Solution Architecture - Associate/Amazon Aurora.md",
     "AWS Solution Architecture - Associate/EBS/Amazon EBS - Elastic Block Store.md",
     "AWS Solution Architecture - Associate/EBS/Cifrado en EBS.md",
     "AWS Solution Architecture - Associate/Amazon Shield.md",
-    "AWS Solution Architecture - Associate/Amazon Route 53.md",
-    "AWS Solution Architecture - Associate/Amazon RDS (Relational Database Service).md",
-    "Conceptos Importantes/CNAME.md",
     "AWS Solution Architecture - Associate/IAM/Amazon IAM - Identify and Access Management.md",
-    "AWS Certifications.md",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260313103920.png",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312184537.png",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312182201.png",
-    "AWS Solution Architecture - Associate/Amazon VPC.md",
-    "AWS Solution Architecture - Associate/AWS CloudFormation.md",
-    "AWS Solution Architecture - Associate/AWS Auto Scaling.md",
-    "AWS Solution Architecture - Associate/Gestión y Gobernanza/Amazon CloudWatch.md",
-    "AWS Solution Architecture - Associate/Gestión y Gobernanza/Amazon CloudTrail.md",
-    "AWS Solution Architecture - Associate/Gestión y Gobernanza/AWS Config.md",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312181046.png",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312180300.png",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312173327.png",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312173157.png",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312170015.png",
-    "AWS Solution Architecture - Associate/Amazon Elasic/Elastic Load Balancing.md",
     "AWS Solution Architecture - Associate/Gestión y Gobernanza",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312165652.png",
-    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312153538.png",
-    "AWS Solution Architecture - Associate/Direccionamiento IPv4 e IPv6 en AWS.md",
-    "AWS Solution Architecture - Associate/AWS WAF - Web Application Firewall.md",
-    "AWS Solution Architecture - Associate/Grupos de seguridad y NACL de AWS.md",
-    "Conceptos Importantes/Ataques DDoS.md",
     "AWS Solution Architecture - Associate/EBS",
     "AWS Solution Architecture - Associate/EC2",
     "AWS Solution Architecture - Associate/Amazon Elasic",
@@ -261,7 +262,6 @@
     "AWS Solution Architecture - Associate/IAM",
     "Conceptos Importantes/IMG",
     "AWS Solution Architecture - Associate/IMG",
-    "Conceptos Importantes",
-    "AWS Solution Architecture - Associate"
+    "Conceptos Importantes"
   ]
 }
