@@ -1,2 +1,3 @@
 **Permite a los administradores de la base de datos acceder y personalizar el entorno de la base de datos y el sistema operativo subyacente.**
 
+RDS Custom para Oracle  te permite acceder y personalizar el host y el sistema operativo de tu servidor de base de datos, por ejemplo aplicando parches especiales y cambiando la configuración del software de base de datos para admitir aplicaciones de terceros que requieran acceso privilegiado. RDS Personalizado para Oracle facilita estas funcionalidades con un esfuerzo mínimo de mantenimiento de la infraestructura. Necesitas configurar el RDS Personalizado para Oracle en configuración multi AZ para alta disponibilidad
