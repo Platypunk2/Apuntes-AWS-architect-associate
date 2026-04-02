@@ -1,0 +1,5 @@
+**La hibernación de EC2 permite pausar y reanudar una instancia, guardando su estado actual en el volumen raíz.**
+
+El modo hibernación es una opción que no se puede habilitar en una instancia lanzada. La instancia debe ser creada con la opción de hibernación habilitada desde el principio. Por esto mismo, si una empresa ya tiene una aplicación en una instancia y quieren ver una opción para que acelerar el tiempo de carga de la instancia cada vez que se vuelva a habilitar después de una detención, se necesitaría migrar la aplicación a una instancia EC2 con hibernación habilitada.
+
+La hibernación recude el tiempo de inicio, ya que no es necesario volver a cargar el sistema operativo ni las aplicaciones. Solo se paga por los volúmenes EBS y las direcciones IP elásticas, sin costos adicionales por tiempo de ejecución. Para usar hibernación, el volumen raíz debe estar cifrado y ser lo suficientemente grande para almacenar los datos de la RAM.

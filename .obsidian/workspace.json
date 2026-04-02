@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/Amazon RDS Custom for Oracle.md",
+                "file": "Anotaciones, Confusiones y Aclaraciones/Hibernación en EC2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amazon RDS Custom for Oracle"
+              "title": "Hibernación en EC2"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/Amazon RDS Custom for Oracle.md",
+                "file": "Anotaciones, Confusiones y Aclaraciones/Hibernación en EC2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Amazon RDS Custom for Oracle"
+              "title": "Gráfico de Hibernación en EC2"
             }
           }
         ]
@@ -217,8 +217,9 @@
   },
   "active": "da54b7e4862e6ab4",
   "lastOpenFiles": [
-    "Anotaciones, Confusiones y Aclaraciones/Configuración RDS Multi-AZ vs Aurora Global Database.md",
     "Anotaciones, Confusiones y Aclaraciones/Amazon RDS Custom for Oracle.md",
+    "Anotaciones, Confusiones y Aclaraciones/Hibernación en EC2.md",
+    "Anotaciones, Confusiones y Aclaraciones/Configuración RDS Multi-AZ vs Aurora Global Database.md",
     "Conceptos Importantes/Aplicaciones Heredadas.md",
     "Anotaciones, Confusiones y Aclaraciones/Amazon SNS y SQS.md",
     "AWS Solution Architecture - Associate/Amazon Textract.md",
@@ -244,7 +245,6 @@
     "AWS Solution Architecture - Associate/EBS/Amazon EBS - Elastic Block Store.md",
     "AWS Solution Architecture - Associate/EBS/Cifrado en EBS.md",
     "AWS Solution Architecture - Associate/Amazon Shield.md",
-    "AWS Solution Architecture - Associate/IAM/Amazon IAM - Identify and Access Management.md",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260313103920.png",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312184537.png",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312182201.png",
