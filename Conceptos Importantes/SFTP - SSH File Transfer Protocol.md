@@ -1,0 +1,1 @@
+También conocido como coloquialmente **Secure File Transfer Protocol**, es un protocolo seguro de red utilizado para transferir y gestionar archivos de forma cifrada entre dos equipos, operando comúnmente en el puerto 22. A diferencia del FTP tradicional, SFTP cifra tanto las credenciales como los datos transferidos, protegiéndolos contra interceptaciones.
