@@ -28,3 +28,30 @@ Una empresa multinacional tiene equipos de desarrollo en todo el mundo. Deciden 
 Supongamos que tu empresa decide mover su carga de trabajo de una región con costos altos a una más económica.
 
 - **Uso del Peering:** Conectas ambas regiones para transferir terabytes de datos de S3 o volúmenes EBS de forma directa, aprovechando la velocidad de la red interna de Amazon.
+
+
+---
+
+# Ejemplo
+
+![[Pasted image 20260403172413.png]]
+
+Este diagrama muestra una infraestructura de AWS dividida en dos regiones geográficas separadas:
+
+1. **Región A (ej. us-east-1, N. Virginia):**
+    
+    - Contiene una VPC (VPC A).
+    - Dentro de la VPC A, hay una subred con una instancia EC2 (con una dirección IP privada, por ejemplo, `10.0.1.10`).
+    - Esta instancia actúa como el iniciador de la comunicación.
+    
+2. **Región B (ej. eu-central-1, Frankfurt):**
+    
+    - Contiene otra VPC (VPC B).
+    - Dentro de la VPC B, hay una subred con otra instancia EC2 (con su propia dirección IP privada, por ejemplo, `172.16.1.20`).
+    - Esta instancia actúa como el receptor.
+    
+3. **Conexión VPC Peering Interregional:**
+    
+    - Una línea discontinua y una flecha bidireccional conectan directamente la VPC A y la VPC B a través de la frontera regional.
+    - Esta conexión representa la relación de peering establecida.
+    - Se destaca que el tráfico viaja de forma **segura y privada** a través de la red troncal (backbone) de AWS
