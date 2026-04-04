@@ -1,4 +1,4 @@
-Una conexión VPC Peering Interregional es una relación de red entre dos VPCs (Virtual Private Clouds) que se encuentran en **regiones geográficas distintas** de AWS (por ejemplo, una en EE.UU Este (N.Virginia) y otr en Europa (Irlanda)).
+Una conexión VPC Peering Interregional es una relación de red entre dos VPCs (Virtual Private Clouds) que se encuentran en **regiones geográficas distintas** de AWS (por ejemplo, una en EE.UU Este (N.Virginia) y otro en Europa (Irlanda)).
 
 Esta conexión permite que los recursos de ambas redes se comuniquen entre sí utilizando **direcciones IP privadas**, como si estuvieran en la misma red local, sin que el tráfico pase por la internet pública.
 
