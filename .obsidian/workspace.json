@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/VPC Peering Interregional (Inter-Region VPC Peering).md",
+                "file": "AWS Solution Architecture - Associate/Amazon Simple Storage Service (S3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPC Peering Interregional (Inter-Region VPC Peering)"
+              "title": "Amazon Simple Storage Service (S3)"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/VPC Peering Interregional (Inter-Region VPC Peering).md",
+                "file": "AWS Solution Architecture - Associate/Amazon Simple Storage Service (S3).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de VPC Peering Interregional (Inter-Region VPC Peering)"
+              "title": "Gráfico de Amazon Simple Storage Service (S3)"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "transfer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,12 +214,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fd08ad321066b760",
+  "active": "9755fee30417ce22",
   "lastOpenFiles": [
+    "Anotaciones, Confusiones y Aclaraciones/Launch Template vs Launch Configuration.md",
+    "AWS Solution Architecture - Associate/Amazon Simple Storage Service (S3).md",
+    "AWS Solution Architecture - Associate/Amazon CloudFront.md",
+    "Conceptos Importantes/Anycast.md",
+    "Conceptos Importantes/Aplicaciones Heredadas.md",
+    "Conceptos Importantes/Ataques DDoS.md",
+    "AWS Solution Architecture - Associate/Grupos de seguridad y NACL de AWS.md",
+    "AWS Solution Architecture - Associate/Amazon Firewall Manager.md",
+    "Anotaciones, Confusiones y Aclaraciones/VPC Peering Interregional (Inter-Region VPC Peering).md",
+    "AWS Solution Architecture - Associate/IAM/Políticas (Más a Detalle).md",
     "Conceptos Importantes/Serverless - Computación sin servidor.md",
     "Conceptos Importantes/NACL - Network Access Control List.md",
     "Conceptos Importantes/NAT - Network Address Translation.md",
-    "Anotaciones, Confusiones y Aclaraciones/VPC Peering Interregional (Inter-Region VPC Peering).md",
     "Pasted image 20260403172413.png",
     "Pasted image 20260403172357.png",
     "Conceptos Importantes/Peering.md",
@@ -229,21 +239,12 @@
     "Anotaciones, Confusiones y Aclaraciones/Limite de Instancias EC2 por Availability Zone (AZ).md",
     "Conceptos Importantes/SFTP - SSH File Transfer Protocol.md",
     "AWS Solution Architecture - Associate/AWS Direct Connect.md",
-    "Anotaciones, Confusiones y Aclaraciones/Launch Template vs Launch Configuration.md",
     "Anotaciones, Confusiones y Aclaraciones/Hibernación en EC2.md",
     "Anotaciones, Confusiones y Aclaraciones/Configuración RDS Multi-AZ vs Aurora Global Database.md",
-    "Conceptos Importantes/Aplicaciones Heredadas.md",
     "Anotaciones, Confusiones y Aclaraciones/Amazon SNS y SQS.md",
     "AWS Solution Architecture - Associate/Amazon Textract.md",
-    "AWS Solution Architecture - Associate/Amazon Simple Storage Service (S3).md",
     "AWS Solution Architecture - Associate/Amazon VPC.md",
-    "AWS Solution Architecture - Associate/Amazon Route 53.md",
-    "AWS Solution Architecture - Associate/Amazon RDS (Relational Database Service).md",
-    "AWS Solution Architecture - Associate/Amazon CloudFront.md",
-    "AWS Solution Architecture - Associate/EXAMEN - AWS Solution Architecture.md",
-    "AWS Solution Architecture - Associate/Grupos de seguridad y NACL de AWS.md",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260331173729.png",
-    "Conceptos Importantes/Anycast.md",
     "Anotaciones, Confusiones y Aclaraciones",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260313103920.png",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312184537.png",
