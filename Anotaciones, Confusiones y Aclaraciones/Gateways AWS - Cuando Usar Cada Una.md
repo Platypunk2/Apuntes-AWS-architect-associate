@@ -60,7 +60,23 @@ Permite que instancias en subnets **privadas** se conecten hacia internet (para 
 - Lambdas en una VPC que llaman APIs externas (Stripe, Twilio, etc.)
 - Aplicaciones backend que deben consultar servicios de terceros sin exponerse
 
-
 > [!NOTE]
 > Si múltiples subnets privadas necesitan acceso a internet, todas apuntan al mismo NAT Gateway en su route table: 0.0.0.0/0 -> nat-xxxx
+
+### NAT Gateway (AWS managed)
+- Alta disponibilidad automática
+- Escala hasta 45 Gbps
+- Sin administración
+- Más caro (~$0.045/hr + data)
+
+### NAT Instance (EC2 manual)
+- Más barato
+- Configurable como proxy
+- Tú gestionas HA y patches
+- Cuello de botella de ancho de banda
+
+---
+
+# Virtual Private Gateway (VGW)
+**Conectividad híbrida**
 

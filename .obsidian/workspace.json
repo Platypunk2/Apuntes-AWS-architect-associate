@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/Gateways AWS - Cuando Usar Cada Una.md",
+                "file": "Conceptos Importantes/Serverless - Computación sin servidor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gateways AWS - Cuando Usar Cada Una"
+              "title": "Serverless - Computación sin servidor"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/Gateways AWS - Cuando Usar Cada Una.md",
+                "file": "Conceptos Importantes/Serverless - Computación sin servidor.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Gateways AWS - Cuando Usar Cada Una"
+              "title": "Gráfico de Serverless - Computación sin servidor"
             }
           }
         ]
@@ -215,12 +215,14 @@
   },
   "active": "9755fee30417ce22",
   "lastOpenFiles": [
-    "Pasted image 20260405131355.png",
-    "Pasted image 20260405130756.png",
-    "Pasted image 20260405123035.png",
+    "Conceptos Importantes/POP - Point of Presence.md",
+    "Pasted image 20260403172413.png",
     "Pasted image 20260405123029.png",
-    "AWS Solution Architecture - Associate/AWS Artifact.md",
+    "Pasted image 20260405123035.png",
+    "Pasted image 20260405130756.png",
+    "Pasted image 20260405131355.png",
     "Anotaciones, Confusiones y Aclaraciones/Gateways AWS - Cuando Usar Cada Una.md",
+    "AWS Solution Architecture - Associate/AWS Artifact.md",
     "AWS Solution Architecture - Associate/Amazon Simple Storage Service (S3).md",
     "Anotaciones, Confusiones y Aclaraciones/Launch Template vs Launch Configuration.md",
     "AWS Solution Architecture - Associate/Amazon CloudFront.md",
@@ -234,7 +236,6 @@
     "Conceptos Importantes/Serverless - Computación sin servidor.md",
     "Conceptos Importantes/NACL - Network Access Control List.md",
     "Conceptos Importantes/NAT - Network Address Translation.md",
-    "Pasted image 20260403172413.png",
     "Pasted image 20260403172357.png",
     "Conceptos Importantes/Peering.md",
     "Anotaciones, Confusiones y Aclaraciones/Amazon Aurora Serverless.md",
@@ -251,7 +252,6 @@
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260313103920.png",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312184537.png",
     "AWS Solution Architecture - Associate/IMG/Pasted image 20260312182201.png",
-    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312181046.png",
     "AWS Solution Architecture - Associate/Gestión y Gobernanza",
     "AWS Solution Architecture - Associate/EBS",
     "AWS Solution Architecture - Associate/EC2",
