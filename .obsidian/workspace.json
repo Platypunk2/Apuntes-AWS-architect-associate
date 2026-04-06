@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/Amazon ECS Tasks.md",
+                "file": "Anotaciones, Confusiones y Aclaraciones/Política de Terminación por Defecto de EC2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amazon ECS Tasks"
+              "title": "Política de Terminación por Defecto de EC2"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/Amazon ECS Tasks.md",
+                "file": "Anotaciones, Confusiones y Aclaraciones/Política de Terminación por Defecto de EC2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Amazon ECS Tasks"
+              "title": "Gráfico de Política de Terminación por Defecto de EC2"
             }
           }
         ]
@@ -217,13 +217,16 @@
   },
   "active": "9755fee30417ce22",
   "lastOpenFiles": [
-    "Anotaciones, Confusiones y Aclaraciones/Evaluación de Políticas en AWS.md",
+    "Anotaciones, Confusiones y Aclaraciones/Diferencia entre Amazon S3 One Zone-IA, Amazon S3 Standard-IA y Amazon S3 Standard.md",
+    "Anotaciones, Confusiones y Aclaraciones/Política de Terminación por Defecto de EC2.md",
+    "AWS Solution Architecture - Associate/AWS RAM - Resource Access Manager.md",
+    "Pasted image 20260405230404.png",
     "Anotaciones, Confusiones y Aclaraciones/Amazon ECS Tasks.md",
+    "Anotaciones, Confusiones y Aclaraciones/Evaluación de Políticas en AWS.md",
     "Pasted image 20260405202130.png",
     "AWS Solution Architecture - Associate/Amazon DynamoDB.md",
     "AWS Solution Architecture - Associate/Amazon Shield.md",
     "Conceptos Importantes/NACL - Network Access Control List.md",
-    "Anotaciones, Confusiones y Aclaraciones/Sin título.md",
     "Anotaciones, Confusiones y Aclaraciones/Gateways AWS - Cuando Usar Cada Una.md",
     "Pasted image 20260405163139.png",
     "Pasted image 20260405155122.png",
@@ -233,7 +236,6 @@
     "Pasted image 20260405123029.png",
     "Pasted image 20260405130756.png",
     "Pasted image 20260405131355.png",
-    "Pasted image 20260405123035.png",
     "Conceptos Importantes/POP - Point of Presence.md",
     "Conceptos Importantes/Serverless - Computación sin servidor.md",
     "AWS Solution Architecture - Associate/AWS Artifact.md",
@@ -251,8 +253,6 @@
     "Conceptos Importantes/Peering.md",
     "Anotaciones, Confusiones y Aclaraciones/Amazon Aurora Serverless.md",
     "Anotaciones, Confusiones y Aclaraciones/Cuando Usar AWS DataSync, S3 Multipart Upload y AWS Storage gateway.md",
-    "Anotaciones, Confusiones y Aclaraciones/Amazon RDS Performance Insights.md",
-    "Anotaciones, Confusiones y Aclaraciones/Amazon RDS Custom for Oracle.md",
     "Anotaciones, Confusiones y Aclaraciones",
     "AWS Solution Architecture - Associate/Gestión y Gobernanza",
     "AWS Solution Architecture - Associate/EBS",
