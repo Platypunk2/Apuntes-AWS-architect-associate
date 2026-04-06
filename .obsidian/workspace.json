@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/Evaluación de Políticas en AWS.md",
+                "file": "Anotaciones, Confusiones y Aclaraciones/Amazon ECS Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluación de Políticas en AWS"
+              "title": "Amazon ECS Tasks"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/Evaluación de Políticas en AWS.md",
+                "file": "Anotaciones, Confusiones y Aclaraciones/Amazon ECS Tasks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Evaluación de Políticas en AWS"
+              "title": "Gráfico de Amazon ECS Tasks"
             }
           }
         ]
@@ -215,11 +215,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fd08ad321066b760",
+  "active": "9755fee30417ce22",
   "lastOpenFiles": [
+    "Anotaciones, Confusiones y Aclaraciones/Evaluación de Políticas en AWS.md",
+    "Anotaciones, Confusiones y Aclaraciones/Amazon ECS Tasks.md",
     "Pasted image 20260405202130.png",
     "AWS Solution Architecture - Associate/Amazon DynamoDB.md",
-    "Anotaciones, Confusiones y Aclaraciones/Evaluación de Políticas en AWS.md",
     "AWS Solution Architecture - Associate/Amazon Shield.md",
     "Conceptos Importantes/NACL - Network Access Control List.md",
     "Anotaciones, Confusiones y Aclaraciones/Sin título.md",
@@ -247,7 +248,6 @@
     "Anotaciones, Confusiones y Aclaraciones/VPC Peering Interregional (Inter-Region VPC Peering).md",
     "AWS Solution Architecture - Associate/IAM/Políticas (Más a Detalle).md",
     "Conceptos Importantes/NAT - Network Address Translation.md",
-    "Pasted image 20260403172357.png",
     "Conceptos Importantes/Peering.md",
     "Anotaciones, Confusiones y Aclaraciones/Amazon Aurora Serverless.md",
     "Anotaciones, Confusiones y Aclaraciones/Cuando Usar AWS DataSync, S3 Multipart Upload y AWS Storage gateway.md",
