@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/Política de Terminación por Defecto de EC2.md",
+                "file": "Anotaciones, Confusiones y Aclaraciones/Enhanced Monitoring en AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Política de Terminación por Defecto de EC2"
+              "title": "Enhanced Monitoring en AWS"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/Política de Terminación por Defecto de EC2.md",
+                "file": "Anotaciones, Confusiones y Aclaraciones/Enhanced Monitoring en AWS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Política de Terminación por Defecto de EC2"
+              "title": "Gráfico de Enhanced Monitoring en AWS"
             }
           }
         ]
@@ -217,8 +217,10 @@
   },
   "active": "9755fee30417ce22",
   "lastOpenFiles": [
-    "Anotaciones, Confusiones y Aclaraciones/Diferencia entre Amazon S3 One Zone-IA, Amazon S3 Standard-IA y Amazon S3 Standard.md",
+    "AWS Solution Architecture - Associate/AWS SWF - Simple Workflow Service.md",
+    "Anotaciones, Confusiones y Aclaraciones/Enhanced Monitoring en AWS.md",
     "Anotaciones, Confusiones y Aclaraciones/Política de Terminación por Defecto de EC2.md",
+    "Anotaciones, Confusiones y Aclaraciones/Diferencia entre Amazon S3 One Zone-IA, Amazon S3 Standard-IA y Amazon S3 Standard.md",
     "AWS Solution Architecture - Associate/AWS RAM - Resource Access Manager.md",
     "Pasted image 20260405230404.png",
     "Anotaciones, Confusiones y Aclaraciones/Amazon ECS Tasks.md",
@@ -251,8 +253,6 @@
     "AWS Solution Architecture - Associate/IAM/Políticas (Más a Detalle).md",
     "Conceptos Importantes/NAT - Network Address Translation.md",
     "Conceptos Importantes/Peering.md",
-    "Anotaciones, Confusiones y Aclaraciones/Amazon Aurora Serverless.md",
-    "Anotaciones, Confusiones y Aclaraciones/Cuando Usar AWS DataSync, S3 Multipart Upload y AWS Storage gateway.md",
     "Anotaciones, Confusiones y Aclaraciones",
     "AWS Solution Architecture - Associate/Gestión y Gobernanza",
     "AWS Solution Architecture - Associate/EBS",
