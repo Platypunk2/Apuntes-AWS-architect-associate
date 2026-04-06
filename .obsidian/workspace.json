@@ -6,6 +6,7 @@
       {
         "id": "1813c651002d7710",
         "type": "tabs",
+        "dimension": 51.73969072164949,
         "children": [
           {
             "id": "9755fee30417ce22",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos Importantes/Serverless - Computación sin servidor.md",
+                "file": "Anotaciones, Confusiones y Aclaraciones/Evaluación de Políticas en AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serverless - Computación sin servidor"
+              "title": "Evaluación de Políticas en AWS"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "a6f38bead3515dfc",
         "type": "tabs",
+        "dimension": 48.26030927835052,
         "children": [
           {
             "id": "fd08ad321066b760",
@@ -33,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceptos Importantes/Serverless - Computación sin servidor.md",
+                "file": "Anotaciones, Confusiones y Aclaraciones/Evaluación de Políticas en AWS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -56,12 +58,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792633,
+                  "scale": 0.36288736930121485,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Serverless - Computación sin servidor"
+              "title": "Gráfico de Evaluación de Políticas en AWS"
             }
           }
         ]
@@ -213,15 +215,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9755fee30417ce22",
+  "active": "fd08ad321066b760",
   "lastOpenFiles": [
-    "Conceptos Importantes/POP - Point of Presence.md",
+    "Pasted image 20260405202130.png",
+    "AWS Solution Architecture - Associate/Amazon DynamoDB.md",
+    "Anotaciones, Confusiones y Aclaraciones/Evaluación de Políticas en AWS.md",
+    "AWS Solution Architecture - Associate/Amazon Shield.md",
+    "Conceptos Importantes/NACL - Network Access Control List.md",
+    "Anotaciones, Confusiones y Aclaraciones/Sin título.md",
+    "Anotaciones, Confusiones y Aclaraciones/Gateways AWS - Cuando Usar Cada Una.md",
+    "Pasted image 20260405163139.png",
+    "Pasted image 20260405155122.png",
+    "Pasted image 20260405154235.png",
+    "Pasted image 20260405145623.png",
     "Pasted image 20260403172413.png",
     "Pasted image 20260405123029.png",
-    "Pasted image 20260405123035.png",
     "Pasted image 20260405130756.png",
     "Pasted image 20260405131355.png",
-    "Anotaciones, Confusiones y Aclaraciones/Gateways AWS - Cuando Usar Cada Una.md",
+    "Pasted image 20260405123035.png",
+    "Conceptos Importantes/POP - Point of Presence.md",
+    "Conceptos Importantes/Serverless - Computación sin servidor.md",
     "AWS Solution Architecture - Associate/AWS Artifact.md",
     "AWS Solution Architecture - Associate/Amazon Simple Storage Service (S3).md",
     "Anotaciones, Confusiones y Aclaraciones/Launch Template vs Launch Configuration.md",
@@ -233,8 +246,6 @@
     "AWS Solution Architecture - Associate/Amazon Firewall Manager.md",
     "Anotaciones, Confusiones y Aclaraciones/VPC Peering Interregional (Inter-Region VPC Peering).md",
     "AWS Solution Architecture - Associate/IAM/Políticas (Más a Detalle).md",
-    "Conceptos Importantes/Serverless - Computación sin servidor.md",
-    "Conceptos Importantes/NACL - Network Access Control List.md",
     "Conceptos Importantes/NAT - Network Address Translation.md",
     "Pasted image 20260403172357.png",
     "Conceptos Importantes/Peering.md",
@@ -242,16 +253,7 @@
     "Anotaciones, Confusiones y Aclaraciones/Cuando Usar AWS DataSync, S3 Multipart Upload y AWS Storage gateway.md",
     "Anotaciones, Confusiones y Aclaraciones/Amazon RDS Performance Insights.md",
     "Anotaciones, Confusiones y Aclaraciones/Amazon RDS Custom for Oracle.md",
-    "Anotaciones, Confusiones y Aclaraciones/Limite de Instancias EC2 por Availability Zone (AZ).md",
-    "Conceptos Importantes/SFTP - SSH File Transfer Protocol.md",
-    "AWS Solution Architecture - Associate/AWS Direct Connect.md",
-    "Anotaciones, Confusiones y Aclaraciones/Hibernación en EC2.md",
-    "Anotaciones, Confusiones y Aclaraciones/Configuración RDS Multi-AZ vs Aurora Global Database.md",
-    "AWS Solution Architecture - Associate/IMG/Pasted image 20260331173729.png",
     "Anotaciones, Confusiones y Aclaraciones",
-    "AWS Solution Architecture - Associate/IMG/Pasted image 20260313103920.png",
-    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312184537.png",
-    "AWS Solution Architecture - Associate/IMG/Pasted image 20260312182201.png",
     "AWS Solution Architecture - Associate/Gestión y Gobernanza",
     "AWS Solution Architecture - Associate/EBS",
     "AWS Solution Architecture - Associate/EC2",
