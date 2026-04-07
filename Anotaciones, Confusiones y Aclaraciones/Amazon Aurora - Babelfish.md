@@ -1,0 +1,1 @@
+Babelfish for Aurora PostgreSQL permite que las aplicaciones existentes que usan T-SQL (dialecto SQL de Microsoft) sigan ejecutándose en Aurora PostgreSQL con mínimos cambios en el código. Esto facilita la transición al nuevo motor de base de datos sin necesidad de reescribir completamente las consultas SQL.

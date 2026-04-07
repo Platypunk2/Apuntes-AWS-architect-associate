@@ -1,0 +1,5 @@
+Amazon Simple Queue Service (SQS) es un servicio de colas de mensajes totalmente administrado que te permite desacoplar y escalar microservicios, sistemas distribuidos y aplicaciones sin servidor. SQS ofrece dos tipos de colas de mensajes: colas estándar y colas FIFO.
+
+En las colas FIFO, se mantiene estrictamente el orden de envío y recepción de los mensajes (es decir, primero en entrar, primero en salir). En cambio, las colas SQS estándar ofrecen un orden de mejor esfuerzo. Esto significa que, ocasionalmente, los mensajes pueden ser entregados en un orden distinto al que fueron enviados.
+
+Por defecto, las colas FIFO admiten hasta 300 mensajes por segundo (300 operaciones de envío, recepción o borrado por segundo). Cuando procesas 10 mensajes por operación (como máximo), las colas FIFO pueden soportar hasta 3.000 mensajes por segundo. Por lo tanto, necesitas procesar 4 mensajes por operación para que la cola FIFO pueda soportar hasta 1200 mensajes por segundo, lo que está dentro de la tasa máxima.

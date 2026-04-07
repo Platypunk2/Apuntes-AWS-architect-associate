@@ -1,0 +1,3 @@
+**Es una función de seguridad de Amazon CloudFront que permite restringir el acceso a un bucket privado de Amazon S3.**
+
+La mejor práctica para restringir el acceso a los objetos en S3 solo a través de CloudFront es usar una Origin Access Identity (OAI). Al crear una OAI y concederle permisos en el bucket de S3, CloudFront podrá acceder a los objetos mientras que el acceso público directo desde S3 queda bloqueado.
