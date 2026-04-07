@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/Replicación Multi-AZ y Read-replicas RDS.md",
+                "file": "AWS Solution Architecture - Associate/AWS Storage Gateway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Replicación Multi-AZ y Read-replicas RDS"
+              "title": "AWS Storage Gateway"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anotaciones, Confusiones y Aclaraciones/Replicación Multi-AZ y Read-replicas RDS.md",
+                "file": "AWS Solution Architecture - Associate/AWS Storage Gateway.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Replicación Multi-AZ y Read-replicas RDS"
+              "title": "Gráfico de AWS Storage Gateway"
             }
           }
         ]
@@ -217,8 +217,8 @@
   },
   "active": "9755fee30417ce22",
   "lastOpenFiles": [
-    "Anotaciones, Confusiones y Aclaraciones/Gateways AWS - Cuando Usar Cada Una.md",
     "Anotaciones, Confusiones y Aclaraciones/Replicación Multi-AZ y Read-replicas RDS.md",
+    "Anotaciones, Confusiones y Aclaraciones/Gateways AWS - Cuando Usar Cada Una.md",
     "AWS Solution Architecture - Associate/Amazon VPC.md",
     "Anotaciones, Confusiones y Aclaraciones/Política de Terminación por Defecto de EC2.md",
     "Anotaciones, Confusiones y Aclaraciones/Limite de Instancias EC2 por Availability Zone (AZ).md",
